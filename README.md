@@ -4,5 +4,7 @@ this my first repository
 
 
 
-author: Ranjan kr
+author: Ranjan kumar
+
+date: 12/11/2025
 
