@@ -1,6 +1,6 @@
 # rsah123
 
-this my first repository
+my first repo
 
 
 
